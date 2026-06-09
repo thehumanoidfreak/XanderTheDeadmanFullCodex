@@ -57,7 +57,7 @@ Welcome to the official, master lore repository for the Xander Saga. This databa
 * **True/Awakened Appearance:** When tapping into his celestial heritage, his body resembles living outer space—filled with shifting nebulas, constellations, and galaxies. His physical form is heavily fractured, with every crack leaking immense primordial energy. His face is entirely featureless except for a massive, leaking **X-shaped mark**, and his chest features a glowing **infinity symbol**. His hair is composed of pure, impossibly compressed cosmic energy.
 * **Mortal Trait Remnants:** Even in his standard traveling state, he retains striking **heterochromia** (a baseline indicator of his cosmic heritage) and intricate, heavy **scarring** covering his body from his brutal mortal battles during the Earth Saga.
 
-#### Unique Ability: Consumption (Earth Saga Weaponry)
+#### Unique Ability: Consumption
 * **Mechanics:** The metaphysical ability to assimilate defeated foes by devouring their flesh, energy, or souls.
 * **Partial Consumption:** Swallowing minor quantities or localized energy traces yields a temporary, volatile copy of the target's primary abilities.
 * **Complete Consumption:** Total assimilation of the target's body and essence permanently integrates their power set directly into Xander's personal arsenal.
@@ -87,7 +87,7 @@ Welcome to the official, master lore repository for the Xander Saga. This databa
 * **Origin:** Xander's absolute best friend who rescues him from the void of space following the battle with Zaniidurax. He hails from a desperate universe that was completely overrun by a localized, zombie-style apocalypse caused by Blok's parasitic infection.
 * **Lineage:** A unique cosmic hybrid born to a baseline human father and an extraterrestrial mother. His mother was a celestial composed of pure light energy, fundamentally brought into existence through a cosmic convergence between a Light God and Blok itself.
 
-### Party / Touka
+### Touka
 * **Origin:** A close friend and stalwart ally who stands alongside Xander and Peter throughout the duration of the Multiversal War. She originates from a reality heavily stylized after feudal Japan, centered around samurai traditions and katana combat.
 * **Abilities:** Permanently commands the destructive and restorative cosmic powers of the Phoenix.
 

@@ -15,10 +15,6 @@
 ### Prime Earth
 * **The Tapestry of Reality:** The baseline reality of the modern universe where magic, advanced extraterrestrial civilizations, monsters, superheroes, gods, and cosmic entities seamlessly coexist.
 * **The Central Supercontinent (Pangeaus):** The largest and politically central landmass on the planet, sitting directly in the vast ocean separating the Western and Eastern continents.
-* **The Magus Slums (The Extra Continent):** A hidden, separate continent built upon modernized magic, structured like a gritty, high-poverty slum where magic is utilized strictly for survival. It is a breeding ground for demonic entities and corrupt forces.
-
-### Cosmic Anomalies & Artifacts
-* **The Imagi-Stone:** A radiant, meteor-born jewel that glows with the vibrant colors of a full color wheel. At its absolute center is an etched, glowing infinity symbol. It acts as a direct anchor to the ancient power of imagination, granting its wielder the capability to turn thought into reality.
 * **The 0.001% Anomaly:** Having a celestial or cosmic lineage is not locked to any specific continent or race. Only roughly **0.001%** of the entire global population harbors these ancient, dormant traits.
 
 ---
@@ -31,8 +27,8 @@
 
 ### Era II: The Dawn of Imagination & The Earth Saga
 * **The First Hero:** Saphyre is struck by a meteor containing the Imagi-Stone, introducing the power of pure imagination to the world. Before departing for multiversal exploits, he passes the baton to a new generation of elemental protectors.
-* **The Rise of Xander:** *Note: Chronologically, Xander's youth and rise on Earth overlap and pre-date the current era's main events due to his age.* Xander binds the Mask, operates as Earth's premier protector with a 97% victory metric, executes his father, and ultimately undergoes his cosmic awakening against Zaniidurax.
-* **The Demon Purge:** Simultaneously on the Magus Slum continent, a half-demon youth begins a brutal campaign to assassinate the Seven Deadly Sins, mentored by the legendary blind magus, Malcolm S. Merlin.
+* **The Tragic Lineage:** Celeste Sterling is born from a forbidden love within the Celestial Constantine Clan, surviving years of torment before escaping into a toxic marriage with Orion Lazarus. The family fractures via a bitter divorce, leaving Xander with his mother and Isayah taken by Orion.
+* **The Rise of Xander:** Xander binds the Mask, operates as Earth's premier protector with a 97% victory metric, executes his father, and ultimately undergoes his cosmic awakening against Zaniidurax.
 
 ### Era III: The Multiversal Saga & The Cyberpunk Divide
 * **The Fragmented War:** Xander, rescued by Peter and joined by Touka, wages a multi-reality war against Blok. Meanwhile, separate parallel universes—including a highly advanced, futuristic Cyberpunk reality—begin fracturing, colliding, and fusing together in an *Into the Spider-Verse* style cosmic convergence.
@@ -62,22 +58,21 @@
 
 ### 🌌 THE DEADMAN ARCHIVE
 
-#### Xander
+#### Xander Sterling (Born Xander Lazarus)
+* **The Surname Defiance:** Xander completely rejected his corporate paternal name ("Lazarus") and proudly adopted **Sterling**—his mother's last name. He uses it to honor her memory, turning his back on both of the corrupt elite bloodlines that built him.
+* **The Family Fracture:** Following a bitter divorce during his young childhood, his father brainwashed his older brother, **Isayah**, splitting the siblings apart. This left Xander with a deep hatred for his father and a highly strained, chaotic, on-and-off bond with his brother over the years.
 * **Biological Anomaly:** A 100% Infinilestian being naturally composed entirely of highly compressed, dense, pure raw energy. 
+* **The Maternal Birthright (Confidence Scaling):** Inherited directly through his mother's forbidden bloodline. Xander discharges star-shaped projectile blasts that hit with the exact structural force of his own self-belief. Because his mother, **Celeste Sterling**, was an unwanted child of the elite, cosmic **Constantine Clan**, she was treated like trash in their home. However, she inherited a sliver of their celestial star power, which she passed down to Xander. 
 * **Multiversal Ability: A New Perspective:** Forces his highly compressed energy body into a specialized form, creating a moving, localized **2-mile spherical domain** centered entirely on himself. Inside, he exerts absolute control over all existing energy, though his available moveset is entirely randomized per battle.
-* **The Primordial Birthright:** Within his domain, he accesses **Confidence Scaling** (star-shaped blasts that hit as hard as he imagines them to hit) and **Mitotic Duplication** (splitting into clones that divide his total power pool).
+
+#### Isayah Lazarus
+* **Identity:** Xander's older brother. Following their parents' divorce, he was fully brainwashed and claimed by Orion Lazarus to be groomed into the corporate empire. He shares a deeply complicated, turbulent, on-and-off relationship with Xander throughout their lives.
+
+#### Orion Lazarus (Mr. Lazarus)
+* **Classification:** Corporate Antagonist (Deceased). The tyrannical CEO of the Lazarus Empire and Xander's father. His company was an elite power known for dangerous influence and rumors of eliminating anyone in their way. As the years went on, Orion grew profoundly crueler, greedier, and obsessed with total control, eventually being executed by Xander.
 
 #### Shouta & Xeras
 * **The Descendants:** Xander's sons. Shouta represents the grounded, human lineage of his mother. Xeras inherits Xander's distinct facial structures, daily mannerisms, and styles his hair in the exact same distinct fashion, though his hair is completely **white and curly**.
-
----
-
-### 🔮 THE MODERN MAGUS SLUMS
-
-#### The Half-Demon Avenger
-* **Origin:** Born native to the gritty, modernized magic slums of the extra continent. 
-* **The Crusade:** His life mission is the systematic execution of the Seven Deadly Sins, culminating in a blood-feud against his own father, the living incarnation of the Sin of Wrath.
-* **Malcolm S. Merlin:** A fiercely overpowered, blind master of magic. He is a direct descendant of the legendary wizard Merlin and serves as the primary mentor to the half-demon avenger, teaching him how to survive the slums and master his internal forces.
 
 ---
 
@@ -118,3 +113,6 @@
 * **The Origin of the Lore:** In true creative fashion, the foundation of this entire omniverse stems from an imagination-based playground game titled **"Heroes"** created by the Author and a close friend years prior. In this original game, the duo roleplayed as original protagonists embarking on boundless adventures.
 * **The Conception of Blok:** The overarching multiversal threat, Blok, was originally conceived during these childhood sessions as a highly dangerous, supreme antagonist whose very name was shrouded in forbidden mystery. 
 * **Creative Evolution:** As the creators grew up, the original "Heroes" game was left behind. This real-world transition is mirrored in the lore: the forgotten "Hero-Verse" turned brutal and collapsed, triggering a multiversal Big Bang that birthed the modern sagas, while Blok survived the transition as a terrifying primordial remnant of that forgotten childhood era.
+
+### The Echo of the "Little Star"
+* **A Multi-Generational Blessing:** Within the lore, the phrase *"my little star"* serves as a powerful symbol of hidden affection amidst tragedy. Xander's mother, Celeste, was an outcast within the ruthless, celestial Constantine Clan, but her father secretly gave her grace and told her to wear her non-elite name proudly because she was his *"little star."* Holding onto that rare fragment of love, she eventually passed the exact same nickname down to Xander during his childhood, cementing his connection to the cosmic stardust power he would inherit.
